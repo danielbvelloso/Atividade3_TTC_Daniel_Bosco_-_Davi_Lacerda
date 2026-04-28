@@ -17,7 +17,7 @@ Cada dispositivo:
 - Exibe os dados no Serial Monitor
 
 ## Estrutura do projeto
-- [Código do Dispositivo A](dispositivo_a/codigo.ino)
+- [Código do Dispositivo A](dispositivo_A/codigo.ino)
 - [Código do Dispositivo B](dispositivo_b/codigo.ino)
 
 ## Problemas encontrados
