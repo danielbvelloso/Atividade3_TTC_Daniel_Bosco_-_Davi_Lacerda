@@ -29,5 +29,5 @@ Cada dispositivo:
 - Para solucionar a instabilidade de alimentação, foi utilizada a fonte de alimentação do Arduino Uno para garantir maior estabilidade e fornecimento adequado de corrente ao sistema. O Arduino foi utilizado exclusivamente como suporte de alimentação, e não participou da lógica do sistema.
 
 ## Integrantes
-- Daniel Bosco;
-- Davi Lacerda.
+- Daniel Bosco
+- Davi Lacerda
