@@ -5,7 +5,7 @@ Esse projeto implementa um sistema de comunicação sem fio, utilizando dois mic
 O projeto opera em Half-Duplex, onde ambos os modos recebem e enviam dados de maneira alternada.
 
 ## Configuração
-- Frequência: 433 MHz
+- Frequência: 433.6 MHz
 - Interface: SPI
 - Biblioteca: LoRa.h
 
