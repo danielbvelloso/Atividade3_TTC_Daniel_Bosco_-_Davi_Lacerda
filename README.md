@@ -1,10 +1,10 @@
 # Sistema de comunicação LoRa (Half-Duplex)
 
-##Descrição
+## Descrição
 Esse projeto implementa um sistema de comunicação sem fio, utilizando dois microcontroladores ESP-32.
 O projeto opera em Half-Duplex, onde ambos os modos recebem e enviam dados de maneira alternada.
 
-##Configuração
+## Configuração
 - Frequência: 433 MHz
 - Interface: SPI
 - Biblioteca: LoRa.h
